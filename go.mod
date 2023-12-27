@@ -1,4 +1,4 @@
-module gihub.com/Pk05999/Explore/golang-gin-poc
+module github.com/Pk05999/Explore/golang-gin-poc
 
 go 1.20
 
